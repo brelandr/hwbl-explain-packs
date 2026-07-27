@@ -1,4 +1,18 @@
 {
-  "format": "hwbl_explain_pack_catalog_v1",
-  "packs": []
+    "format": "hwbl_explain_pack_catalog_v1",
+    "packs": [
+        {
+            "id": "kjv-base-chapter",
+            "translation": "kjv",
+            "tradition": "base",
+            "scopes": [
+                "chapter"
+            ],
+            "version": "1.0.0",
+            "label": "KJV \u00b7 base \u00b7 chapter",
+            "url": "https://github.com/brelandr/hwbl-explain-packs/releases/download/kjv-base-chapter-v1.0.0/kjv-base-chapter-1.0.0.zip",
+            "count": 1189,
+            "bytes": 687349
+        }
+    ]
 }
