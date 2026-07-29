@@ -26,6 +26,19 @@
             "url": "https://github.com/brelandr/hwbl-explain-packs/releases/download/kjv-base-verse-v1.0.0/kjv-base-verse-1.0.0.zip",
             "count": 31102,
             "bytes": 16816968
+        },
+        {
+            "id": "asv-base-verse",
+            "translation": "asv",
+            "tradition": "base",
+            "scopes": [
+                "verse"
+            ],
+            "version": "1.0.0",
+            "label": "ASV \u00b7 base \u00b7 verse",
+            "url": "https://github.com/brelandr/hwbl-explain-packs/releases/download/asv-base-verse-v1.0.0/asv-base-verse-1.0.0.zip",
+            "count": 31101,
+            "bytes": 16707030
         }
     ]
 }
