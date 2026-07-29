@@ -13,6 +13,19 @@
             "url": "https://github.com/brelandr/hwbl-explain-packs/releases/download/kjv-base-chapter-v1.0.0/kjv-base-chapter-1.0.0.zip",
             "count": 1189,
             "bytes": 687349
+        },
+        {
+            "id": "kjv-base-verse",
+            "translation": "kjv",
+            "tradition": "base",
+            "scopes": [
+                "verse"
+            ],
+            "version": "1.0.0",
+            "label": "KJV \u00b7 base \u00b7 verse",
+            "url": "https://github.com/brelandr/hwbl-explain-packs/releases/download/kjv-base-verse-v1.0.0/kjv-base-verse-1.0.0.zip",
+            "count": 31102,
+            "bytes": 16816968
         }
     ]
 }
