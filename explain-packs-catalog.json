@@ -39,6 +39,19 @@
             "url": "https://github.com/brelandr/hwbl-explain-packs/releases/download/asv-base-verse-v1.0.0/asv-base-verse-1.0.0.zip",
             "count": 31101,
             "bytes": 16707030
+        },
+        {
+            "id": "asv-base-chapter",
+            "translation": "asv",
+            "tradition": "base",
+            "scopes": [
+                "chapter"
+            ],
+            "version": "1.0.0",
+            "label": "ASV \u00b7 base \u00b7 chapter",
+            "url": "https://github.com/brelandr/hwbl-explain-packs/releases/download/asv-base-chapter-v1.0.0/asv-base-chapter-1.0.0.zip",
+            "count": 1189,
+            "bytes": 684324
         }
     ]
 }
