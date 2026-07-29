@@ -78,6 +78,19 @@
             "url": "https://github.com/brelandr/hwbl-explain-packs/releases/download/bsb-base-chapter-v1.0.0/bsb-base-chapter-1.0.0.zip",
             "count": 1189,
             "bytes": 686886
+        },
+        {
+            "id": "web-base-verse",
+            "translation": "web",
+            "tradition": "base",
+            "scopes": [
+                "verse"
+            ],
+            "version": "1.0.0",
+            "label": "WEB \u00b7 base \u00b7 verse",
+            "url": "https://github.com/brelandr/hwbl-explain-packs/releases/download/web-base-verse-v1.0.0/web-base-verse-1.0.0.zip",
+            "count": 31098,
+            "bytes": 16685517
         }
     ]
 }
