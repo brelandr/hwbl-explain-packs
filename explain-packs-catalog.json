@@ -52,6 +52,19 @@
             "url": "https://github.com/brelandr/hwbl-explain-packs/releases/download/asv-base-chapter-v1.0.0/asv-base-chapter-1.0.0.zip",
             "count": 1189,
             "bytes": 684324
+        },
+        {
+            "id": "bsb-base-verse",
+            "translation": "bsb",
+            "tradition": "base",
+            "scopes": [
+                "verse"
+            ],
+            "version": "1.0.0",
+            "label": "BSB \u00b7 base \u00b7 verse",
+            "url": "https://github.com/brelandr/hwbl-explain-packs/releases/download/bsb-base-verse-v1.0.0/bsb-base-verse-1.0.0.zip",
+            "count": 31086,
+            "bytes": 16663870
         }
     ]
 }
